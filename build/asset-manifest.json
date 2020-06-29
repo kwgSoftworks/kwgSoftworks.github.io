@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/kwgsoftworks/static/css/main.60982dcd.chunk.css",
+    "main.js": "/kwgsoftworks/static/js/main.bf5bc32a.chunk.js",
+    "main.js.map": "/kwgsoftworks/static/js/main.bf5bc32a.chunk.js.map",
+    "runtime-main.js": "/kwgsoftworks/static/js/runtime-main.4ac229d9.js",
+    "runtime-main.js.map": "/kwgsoftworks/static/js/runtime-main.4ac229d9.js.map",
+    "static/js/2.94a4c980.chunk.js": "/kwgsoftworks/static/js/2.94a4c980.chunk.js",
+    "static/js/2.94a4c980.chunk.js.map": "/kwgsoftworks/static/js/2.94a4c980.chunk.js.map",
+    "index.html": "/kwgsoftworks/index.html",
+    "precache-manifest.943d1187d06d140a49343385568c97e1.js": "/kwgsoftworks/precache-manifest.943d1187d06d140a49343385568c97e1.js",
+    "service-worker.js": "/kwgsoftworks/service-worker.js",
+    "static/css/main.60982dcd.chunk.css.map": "/kwgsoftworks/static/css/main.60982dcd.chunk.css.map",
+    "static/js/2.94a4c980.chunk.js.LICENSE.txt": "/kwgsoftworks/static/js/2.94a4c980.chunk.js.LICENSE.txt",
+    "static/media/App-Development.svg": "/kwgsoftworks/static/media/App-Development.f98b29e0.svg",
+    "static/media/App.css": "/kwgsoftworks/static/media/contact-header.b0d1f090.jpg",
+    "static/media/Business-Plans.svg": "/kwgsoftworks/static/media/Business-Plans.890785d7.svg",
+    "static/media/Developer-Documentation.svg": "/kwgsoftworks/static/media/Developer-Documentation.8f15f7ac.svg",
+    "static/media/Email.svg": "/kwgsoftworks/static/media/Email.7908141b.svg",
+    "static/media/Email_Logo.svg": "/kwgsoftworks/static/media/Email_Logo.4216d455.svg",
+    "static/media/Instagram.svg": "/kwgsoftworks/static/media/Instagram.0fc871df.svg",
+    "static/media/Instagram_Logo.svg": "/kwgsoftworks/static/media/Instagram_Logo.3e8a9e80.svg",
+    "static/media/LinkedIn.svg": "/kwgsoftworks/static/media/LinkedIn.f2d30310.svg",
+    "static/media/LinkedIn_Logo.svg": "/kwgsoftworks/static/media/LinkedIn_Logo.c5eaa2b5.svg",
+    "static/media/Pitch_Decks.svg": "/kwgsoftworks/static/media/Pitch_Decks.7dbf3288.svg",
+    "static/media/Product-Marketing-Videos.svg": "/kwgsoftworks/static/media/Product-Marketing-Videos.e9165c4d.svg",
+    "static/media/Twitter.svg": "/kwgsoftworks/static/media/Twitter.70f7c1cf.svg",
+    "static/media/Twitter_Logo.svg": "/kwgsoftworks/static/media/Twitter_Logo.0b55a8ab.svg",
+    "static/media/Web-Development.svg": "/kwgsoftworks/static/media/Web-Development.60bd57c2.svg",
+    "static/media/header1.jpg": "/kwgsoftworks/static/media/header1.9483dec9.jpg",
+    "static/media/header2.jpg": "/kwgsoftworks/static/media/header2.e6cd7325.jpg",
+    "static/media/idea.gif": "/kwgsoftworks/static/media/idea.01f2c9e1.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4ac229d9.js",
+    "static/js/2.94a4c980.chunk.js",
+    "static/css/main.60982dcd.chunk.css",
+    "static/js/main.bf5bc32a.chunk.js"
+  ]
+}
