@@ -1,0 +1,47 @@
+.social-media{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    justify-content: center;
+    color: var(--white-color);
+    text-align: center;
+    /* margin-top: 2rem; */
+}
+.social-media__items{
+    background-position: center;
+    background-size: cover;
+    padding:  3rem;
+}
+.social-media__items h4{
+    font-family: "GothamBold"
+}
+.social-media__para{
+    padding: 2rem 0;
+}
+.social-media__btn{
+	margin: 0 auto
+}
+.social-media__link{
+    text-decoration: none;
+    color: var(--white-color)
+}
+@media(max-width: 1000px) {
+    .social-media{
+        grid-template-columns: repeat(2,1fr);
+    }   
+    .social-media__items{
+        padding: 3rem 1rem;
+    }
+    
+    .social-media__btn{
+        width: auto;
+        margin: 0 auto
+    }
+ }
+ 
+
+
+@media(max-width: 600px) {
+    .social-media{
+        display: block;
+    }  
+ }

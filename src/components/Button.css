@@ -1,0 +1,26 @@
+.custom-button {
+	padding: .8rem 4rem;
+	outline: 0;
+	border: none;
+	background-color:var(--primary-color);
+	border-radius: 52px;
+	color: #ffffff;
+	cursor: pointer;
+}
+
+.transparent-btn{
+    background: transparent;
+    outline: 0;
+    border: 1px solid #ffffff;
+	padding: 1rem 1.3rem;
+	border-radius: 4px;
+	cursor: pointer;
+	max-width: 15rem;
+	text-transform: uppercase;
+	margin: 0 auto
+}
+.transparent-btn__icon{
+	height: 20px;
+	width: 20px;
+	margin-right: 1rem;
+}

@@ -1,0 +1,47 @@
+.services{
+   padding: 6rem 3rem;
+   color:var(--primary-color);
+}
+.services__header{
+    text-align: center;
+    font-family: "GothamBlack"
+}
+.services__content{
+    display: grid;
+    grid-template-columns: repeat(auto-fill,minmax(380px,1fr));
+    width: 70%;
+    margin: 8rem auto;
+    text-align: center;
+
+    background-color: darkgrey;
+
+	grid-gap: 1px;
+	justify-self: center; 
+    height: auto;
+   
+}
+.services__content-item{
+    position: relative;
+    border: 10px solid #fff;
+    background: #fff;
+    padding: 2rem;
+    font-family: "GothamMedium"
+}
+.services__content-item p{
+    font-family: "GothamBook";
+    color: black
+}
+.icon-img{
+    width: 55px;
+    height: 65px;
+}
+@media(max-width: 600px) {
+    .services{
+        padding: 6rem 0;
+    }
+    .services__content{
+        display: block;
+        width: 100%;
+        margin: 3rem auto; 
+    }   
+ }
